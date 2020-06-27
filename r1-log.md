@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [Jun 27, Saturday, 2020].
 ## Log
 
 ### R1D1 
-I started remember C language for preparing me to algorithms course of Stanford in Coursera.
+I started remember C language for preparing me to algorithms course of Stanford University in Coursera.
 
 
 ### R1D2
